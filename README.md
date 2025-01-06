@@ -78,7 +78,7 @@ This repository contains a comprehensive system for monitoring and identifying c
 
 Visual demo of the entire app
 
-1. 
+1. ![Dashboard Screenshot](images/Screenshot 2024-12-31 123419.png)
 
 ---
 
