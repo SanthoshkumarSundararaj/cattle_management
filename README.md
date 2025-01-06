@@ -25,7 +25,7 @@ This repository contains a comprehensive system for monitoring and identifying c
             v                                                                   v
 +-----------------------+         +---------------------------------------------+
 | Identification        | ------> | React.js Dashboard for Visualization       |
-| (Sticker-based ML)    |         | (Displays detection, tracking, ID data)    |
+| (Sticker-based YOLO)  |         | (Displays detection, tracking, ID data)    |
 +-----------------------+         +---------------------------------------------+
 ```
 
@@ -34,7 +34,7 @@ This repository contains a comprehensive system for monitoring and identifying c
 ### **Flowchart**
 
 ```plaintext
-[ Video Input ] --> [ YOLOv8 Detection ] --> [ DeepSORT Tracking ] --> [ ML Identification ]
+[ Video Input ] --> [ YOLOv8 Detection ] --> [ DeepSORT Tracking ] --> [ YOLO Identification ]
                         |
                         v
 [ Data Logging ] <--- [ React.js Visualization ]
@@ -60,7 +60,7 @@ This repository contains a comprehensive system for monitoring and identifying c
 
 #### **3. Individual Identification**
 - **File**: `backend/identification.py`
-- **Description**: Identifies individual cows using a machine learning algorithm.
+- **Description**: Identifies individual cows using a YOLO shape identification algorithm.
 - **Key Functionality**:
   - Extracts features from detected bounding boxes, focusing on stickers.
   - Compares sticker features using a trained ML model to match identities.
@@ -76,10 +76,9 @@ This repository contains a comprehensive system for monitoring and identifying c
 
 ### **Images**
 
-Include visual examples such as:
-1. A screenshot of the React.js dashboard.
-2. Frames showing detections with bounding boxes and IDs.
-3. Graphs or statistics on cow movements and identification.
+Visual demo of the entire app
+
+1. 
 
 ---
 
