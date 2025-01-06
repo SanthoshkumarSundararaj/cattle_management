@@ -76,9 +76,29 @@ This repository contains a comprehensive system for monitoring and identifying c
 
 ### **Images**
 
-Visual demo of the entire app
+1. Visual demo of the entire app
 
-1. ![Dashboard Screenshot](images/Screenshot 2024-12-31 123419.png)
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20123419.png)
+
+2. List of all tracked cows
+
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20123510.png)
+
+3. Tracked cows filtered based on Metabolic Disorders
+
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20123540.png)
+
+4. Cow analysis dashboard overall barn
+
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20124341.png)
+
+5. Cow analysis dashboard individual
+
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20125421.png)
+
+6. Sample video of the barn with detection/tracking and identification of the activity
+
+![Dashboard Screenshot](https://github.com/SanthoshkumarSundararaj/cattle_management/blob/main/images/Screenshot%202024-12-31%20125948.png)
 
 ---
 
