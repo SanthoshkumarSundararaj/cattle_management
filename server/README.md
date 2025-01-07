@@ -19,15 +19,15 @@ To set up the application, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Cattle-behaviour-analysis.git
-   cd Cattle-behaviour-analysis
+   git clone https://github.com/SanthoshkumarSundararaj/cattle_management.git
+   cd cattle_management
    ```
 
 2. **Create and Activate a Virtual Environment**
 
    ```bash
-   conda create --name cattle-behaviour-analysis python=3.12
-   conda activate cattle-behaviour-analysis
+   conda create --name cattle_management python=3.12
+   conda activate cattle_management
    ```
 
 3. **Install Required Packages**
@@ -75,9 +75,6 @@ The application requires the following Python packages:
 - numpy
 - ultralytics
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
