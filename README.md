@@ -235,7 +235,7 @@ cow-monitoring-system/
 │   ├── calculation.py    # calculation to interpret the behavioural data
 │   ├── healthReport.py   # Generation of final report for the react
 │   ├── app.py            # Central script orchestrating the backend
-├── dashboard/
+├── client/
 │   ├── src/
 │   │   ├── components/      # React.js UI components
 │   │   ├── App.js           # Main React.js application
